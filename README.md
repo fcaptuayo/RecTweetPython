@@ -1,4 +1,4 @@
-rec_tweet
+RecTweet
 =========
 
 Obtiene los tendencias de un lugar y busca los últimos cien tweets de cada tendencia para almacenarlos en MongoDB
